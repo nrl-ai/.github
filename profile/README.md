@@ -6,4 +6,3 @@
 
 - NeuralVN Online Knowledge Sharing: <https://ai.neural.vn>
 - Daisykit - AI toolkit for everyone: <https://daisykit.nrl.ai>
-- TrainCV - No-code Toolkit for labeling and training computer vision: <https://github.com/nrl-ai/traincv>
