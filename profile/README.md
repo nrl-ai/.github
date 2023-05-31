@@ -1,4 +1,7 @@
-<h1>Neural Research Lab, from <img height="44px" style="border-radius: 5px; margin-bottom: -10px; margin-left: 5px" src="https://user-images.githubusercontent.com/18329471/222510618-3e107f47-cf96-4ac2-9134-a8f602a5ac57.svg"/></h1>
+<p align="center">
+  <h1 align="center">🔥 Neural Research Lab 🔥</h1>
+  <p align="center" style="font-size:18px"><b>AI & Software Open Source Team - Build Together, Grow Together!</b></p>
+</p>
 
 ### Projects we are working on:
 
