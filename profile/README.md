@@ -2,5 +2,7 @@
 
 ### Projects we are working on:
 
-- NeuralVN Online Knowledge Sharing: <https://vn.nrl.ai>
-- Daisykit - AI toolkit for everyone: <https://daisykit.nrl.ai>
+- **PⒶutoBot** - Private AutoGPT Robot - Your private task assistant with GPT! <https://github.com/nrl-ai/pautobot>
+- **Daisykit** - AI toolkit for everyone! <https://daisykit.nrl.ai>
+- **NeuralVN** - Online knowledge sharing for Vietnam: <https://vn.nrl.ai>
+
