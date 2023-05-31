@@ -6,3 +6,4 @@
 - **Daisykit** - AI toolkit for everyone! <https://daisykit.nrl.ai>
 - **NeuralVN** - Online knowledge sharing for Vietnam: <https://vn.nrl.ai>
 
+![NRL.ai's products](https://github.com/nrl-ai/.github/assets/18329471/4bdf98a5-1c98-4dab-abec-f7d08ac31366)
