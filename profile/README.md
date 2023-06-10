@@ -3,7 +3,7 @@
   <p align="center" style="font-size:18px"><b>AI & Software Open Source Team - Build Together, Grow Together!</b></p>
 </p>
 
-![NRL.ai's products](https://github.com/nrl-ai/.github/assets/18329471/4bdf98a5-1c98-4dab-abec-f7d08ac31366)
+![NRL.ai's products](https://github.com/nrl-ai/.github/assets/18329471/fb51c7b8-8973-4b91-979b-711423bbf3c0)
 
 ### Projects we are working on:
 
