@@ -7,11 +7,6 @@
 
 ### Projects we are working on:
 
-- **PⒶutoBot** - Private AutoGPT Robot - Your private task assistant with GPT! <https://github.com/nrl-ai/pautobot>
-- **Daisykit** - AI toolkit for everyone! <https://daisykit.nrl.ai>
-- **NeuralVN** - Online knowledge sharing for Vietnam: <https://vn.nrl.ai>
-
-### Our team:
-
-<img style="height: 64px; max-width: 100%; width: auto; margin-left:auto; margin-right: auto" src="https://github.com/nrl-ai/.github/assets/18329471/b0dd89b4-b374-4a80-99ef-50d53c3e32ed">
-
+- **WIP\*** [CustomChar 🤖](https://github.com/vietanhdev/CustomChar) - Offline customized AI characters! With **llama.cpp**, **whisper.cpp**, **ggml**, **LLaMA-v2**.
+- [Daisykit](https://daisykit.nrl.ai) 🍰 - Easy AI for everyone.
+- [Neural VN](https://vn.nrl.ai/) 🎓 - Online knowledge-sharing and learning platform.
