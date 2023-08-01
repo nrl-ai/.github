@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">🔥 Neural Research Lab 🔥</h1>
+  <h1 align="center">🔥 Neural Research Lab (NRL.ai) 🔥</h1>
   <p align="center" style="font-size:18px"><b>AI & Software Open Source Team - Build Together, Grow Together!</b></p>
 </p>
 
