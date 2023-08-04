@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">🔥 Neural Research Lab (NRL.ai) 🔥</h1>
-  <p align="center" style="font-size:18px"><b>AI & Software Open Source Team - Build Together, Grow Together!</b></p>
+  <p align="center" style="font-size:18px"><b>AI & Open Source - Build Together, Grow Together!</b></p>
 </p>
 
 ![NRL.ai's products](https://github.com/nrl-ai/.github/assets/18329471/fb51c7b8-8973-4b91-979b-711423bbf3c0)
