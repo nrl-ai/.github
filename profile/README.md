@@ -1,4 +1,4 @@
-![Neural Research Lab - Banner](https://github.com/nrl-ai/.github/assets/18329471/9734e31e-f613-4bdb-8e40-35621a3bdd2f)
+![Neural Research Lab - Banner](https://github.com/nrl-ai/.github/assets/18329471/3d5f070f-cf62-43db-af06-e1382c1bc452)
 
 - **Neural VN:** [https://www.neuralvn.com](https://www.neuralvn.com).
 - **Daisykit - AI toolkit for computer vision:** [https://daisykit.nrl.ai](https://daisykit.nrl.ai).
