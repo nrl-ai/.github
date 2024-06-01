@@ -1,4 +1,4 @@
-![Neural Research Lab - Banner](https://github.com/nrl-ai/.github/assets/18329471/89a29825-7b60-4a1b-9d58-0111abb8293d)
+![Neural Research Lab - Banner](https://github.com/nrl-ai/.github/assets/18329471/8806cfc6-6d92-4112-961d-f0d42267f748)
 
 Xin chào Thế giới,
 
