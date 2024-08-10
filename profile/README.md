@@ -10,7 +10,8 @@ Hello World,
 
 We are a group of Vietnamese engineers who love open source and sharing knowledge. By sharing and contributing to open projects, we hope to bring AI technology closer to practical problems in real life, and build an ever-growing community of AI learners and practitioners.
 
-- **Daisykit - AI toolkit for computer vision:** [https://daisykit.nrl.ai](https://daisykit.nrl.ai).
-- **CustomChar - Local AI assistant:** [https://github.com/nrl-ai/CustomChar](https://github.com/nrl-ai/CustomChar).
-- **Pautobot - Chat with your documents & Task automation:** [https://github.com/nrl-ai/pautobot](https://github.com/nrl-ai/pautobot).
+- [AnyLabeling](https://github.com/vietanhdev/anylabeling) 🏷 - Image labeling tool with Segment Anything + YOLO support - **[2.1k+](https://github.com/vietanhdev/anylabeling/stargazers)** ⭐.
+- [Daisykit](https://daisykit.nrl.ai) 🍰 - Easy AI for everyone with NCNN - **[179k downloads on PyPi](https://www.pepy.tech/projects/daisykit)** - ⭐ by NCNN's author.
+- [ChessAI](https://github.com/nrl-ai/chessai) - Computer vision for Chinese chessboard - 🏆 **Top 20 OpenCV AI Competition 2023**.
+- [CustomChar](https://github.com/nrl-ai/CustomChar) 🤖 - Offline customized AI characters! With **C++**, **llama.cpp**, **whisper.cpp**, **ggml**, **LLaMA-v2**.
 
