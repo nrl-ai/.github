@@ -1,6 +1,5 @@
 
-![Neural Research Lab](https://github.com/user-attachments/assets/485fa9e1-b888-45a3-a374-f89d16333ed6)
-
+[![NRL.ai](https://github.com/user-attachments/assets/286465ee-2b17-44aa-a5f6-a0948c75c924)](https://www.nrl.ai/)
 
 **Hello World,**
 
