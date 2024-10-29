@@ -1,4 +1,6 @@
-![Neural Research Lab - Banner](https://github.com/nrl-ai/.github/assets/18329471/8806cfc6-6d92-4112-961d-f0d42267f748)
+
+![Neural Research Lab](https://github.com/user-attachments/assets/485fa9e1-b888-45a3-a374-f89d16333ed6)
+
 
 **Hello World,**
 
