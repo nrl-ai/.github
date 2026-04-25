@@ -58,6 +58,24 @@ We ship AI tools that run on your laptop, not someone else's GPU cluster. Four a
   </tr>
 </table>
 
+## In development
+
+<table>
+  <tr>
+    <td width="80" align="center"><a href="https://github.com/vietanhdev/edgevox"><img src="./assets/edgevox.png" width="64" height="64" alt="EdgeVox"></a></td>
+    <td><a href="https://github.com/vietanhdev/edgevox"><b>EdgeVox</b></a> — Offline voice agent framework for robots. Sub-second voice pipeline, ROS2-native, runs on CPU/CUDA/Metal. <a href="https://edgevox.nrl.ai">edgevox.nrl.ai</a><br/>
+      <img src="https://img.shields.io/github/stars/vietanhdev/edgevox?style=flat-square&label=%E2%98%85&color=f5b400" alt="stars">
+      <img src="https://img.shields.io/badge/status-in%20development-orange?style=flat-square" alt="status">
+    </td>
+  </tr>
+  <tr>
+    <td width="80" align="center"><img src="./assets/nom.png" width="64" height="64" alt="Nôm"></td>
+    <td><b>Nôm</b> — Open-source Python toolkit for Vietnamese AI: document extraction, OCR, prompt library. Named after <a href="https://en.wikipedia.org/wiki/Ch%E1%BB%AF_N%C3%B4m">chữ Nôm</a>, the script Vietnam wrote in for a millennium.<br/>
+      <img src="https://img.shields.io/badge/status-coming%20soon-orange?style=flat-square" alt="status">
+    </td>
+  </tr>
+</table>
+
 ## Links
 
 - 🌐 Website — [nrl.ai](https://nrl.ai)
