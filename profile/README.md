@@ -53,6 +53,14 @@ We ship AI tools that run on your laptop, not someone else's GPU cluster. Four a
     </td>
   </tr>
   <tr>
+    <td width="80" align="center"><a href="https://github.com/nrl-ai/nom-vn"><img src="./assets/nom.png" width="64" height="64" alt="Nôm"></a></td>
+    <td><a href="https://github.com/nrl-ai/nom-vn"><b>Nôm</b></a> — Open-source Python toolkit for Vietnamese AI: RAG, diacritic restoration, segmentation, OCR, document parsing. Local-first, no data leaves your machine. Named after <a href="https://en.wikipedia.org/wiki/Ch%E1%BB%AF_N%C3%B4m">chữ Nôm</a>, the script Vietnam wrote in for a millennium. <a href="https://nom-vn.nrl.ai">nom-vn.nrl.ai</a><br/>
+      <img src="https://img.shields.io/github/stars/nrl-ai/nom-vn?style=flat-square&label=%E2%98%85&color=f5b400" alt="stars">
+      <img src="https://img.shields.io/pypi/v/nom-vn?style=flat-square" alt="pypi">
+      <img src="https://img.shields.io/github/license/nrl-ai/nom-vn?style=flat-square" alt="license">
+    </td>
+  </tr>
+  <tr>
     <td width="80" align="center"><a href="https://github.com/nrl-ai/chessai"><img src="./assets/chessai.png" width="64" height="64" alt="ChessAI"></a></td>
     <td><a href="https://github.com/nrl-ai/chessai"><b>ChessAI</b></a> — Computer vision for Chinese chessboards. Top 20, OpenCV AI Competition 2023.</td>
   </tr>
@@ -63,15 +71,9 @@ We ship AI tools that run on your laptop, not someone else's GPU cluster. Four a
 <table>
   <tr>
     <td width="80" align="center"><a href="https://github.com/nrl-ai/edgevox"><img src="./assets/edgevox.png" width="64" height="64" alt="EdgeVox"></a></td>
-    <td><a href="https://github.com/nrl-ai/edgevox"><b>EdgeVox</b></a> — Offline voice agent framework for robots. Sub-second voice pipeline, ROS2-native, runs on CPU/CUDA/Metal. <a href="https://edgevox.nrl.ai">edgevox.nrl.ai</a><br/>
+    <td><a href="https://github.com/nrl-ai/edgevox"><b>EdgeVox</b></a> — Offline voice agent framework for robots and desktop apps. Streaming voice pipeline, ROS2-native, runs on CPU/CUDA/Metal. <a href="https://edgevox.nrl.ai">edgevox.nrl.ai</a><br/>
       <img src="https://img.shields.io/github/stars/nrl-ai/edgevox?style=flat-square&label=%E2%98%85&color=f5b400" alt="stars">
       <img src="https://img.shields.io/badge/status-in%20development-orange?style=flat-square" alt="status">
-    </td>
-  </tr>
-  <tr>
-    <td width="80" align="center"><img src="./assets/nom.png" width="64" height="64" alt="Nôm"></td>
-    <td><b>Nôm</b> — Open-source Python toolkit for Vietnamese AI: document extraction, OCR, prompt library. Named after <a href="https://en.wikipedia.org/wiki/Ch%E1%BB%AF_N%C3%B4m">chữ Nôm</a>, the script Vietnam wrote in for a millennium.<br/>
-      <img src="https://img.shields.io/badge/status-coming%20soon-orange?style=flat-square" alt="status">
     </td>
   </tr>
 </table>
