@@ -31,26 +31,15 @@ We ship AI tools that run on your laptop, not someone else's GPU cluster. Four a
 <table>
   <tr>
     <td width="80" align="center"><a href="https://github.com/vietanhdev/anylabeling"><img src="./assets/anylabeling.png" width="64" height="64" alt="AnyLabeling"></a></td>
-    <td><a href="https://github.com/vietanhdev/anylabeling"><b>AnyLabeling</b></a> — AI-powered data labeling: Segment Anything + YOLO auto-annotation.<br/>
-      <img src="https://img.shields.io/github/stars/vietanhdev/anylabeling?style=flat-square&label=%E2%98%85&color=f5b400" alt="stars">
-      <img src="https://img.shields.io/pypi/v/anylabeling?style=flat-square" alt="pypi">
-      <img src="https://img.shields.io/github/license/vietanhdev/anylabeling?style=flat-square" alt="license">
-    </td>
+    <td><a href="https://github.com/vietanhdev/anylabeling"><b>AnyLabeling</b></a> — AI-powered data labeling: Segment Anything + YOLO auto-annotation.<br/><a href="https://github.com/vietanhdev/anylabeling/stargazers"><img src="https://img.shields.io/github/stars/vietanhdev/anylabeling?style=flat-square&label=%E2%98%85&color=f5b400" alt="stars"></a> <a href="https://pypi.org/project/anylabeling/"><img src="https://img.shields.io/pypi/v/anylabeling?style=flat-square" alt="pypi"></a> <a href="https://github.com/vietanhdev/anylabeling/blob/master/LICENSE"><img src="https://img.shields.io/github/license/vietanhdev/anylabeling?style=flat-square" alt="license"></a></td>
   </tr>
   <tr>
     <td width="80" align="center"><a href="https://github.com/nrl-ai/llama-assistant"><img src="./assets/llama-assistant.png" width="64" height="64" alt="Llama Assistant"></a></td>
-    <td><a href="https://github.com/nrl-ai/llama-assistant"><b>Llama Assistant</b></a> — Local desktop AI with RAG and voice. Runs offline.<br/>
-      <img src="https://img.shields.io/github/stars/nrl-ai/llama-assistant?style=flat-square&label=%E2%98%85&color=f5b400" alt="stars">
-      <img src="https://img.shields.io/badge/license-GPL--3.0-blue?style=flat-square" alt="license">
-    </td>
+    <td><a href="https://github.com/nrl-ai/llama-assistant"><b>Llama Assistant</b></a> — Local desktop AI with RAG and voice. Runs offline.<br/><a href="https://github.com/nrl-ai/llama-assistant/stargazers"><img src="https://img.shields.io/github/stars/nrl-ai/llama-assistant?style=flat-square&label=%E2%98%85&color=f5b400" alt="stars"></a> <a href="https://github.com/nrl-ai/llama-assistant/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-GPL--3.0-blue?style=flat-square" alt="license"></a></td>
   </tr>
   <tr>
     <td width="80" align="center"><a href="https://github.com/nrl-ai/daisykit"><img src="./assets/daisykit.png" width="64" height="64" alt="DaisyKit"></a></td>
-    <td><a href="https://github.com/nrl-ai/daisykit"><b>DaisyKit</b></a> — Edge AI SDK in C++/Python: face / pose / barcode / matting via NCNN. Starred by NCNN's author.<br/>
-      <img src="https://static.pepy.tech/badge/daisykit" alt="pypi downloads">
-      <img src="https://img.shields.io/pypi/v/daisykit?style=flat-square" alt="pypi">
-      <img src="https://img.shields.io/github/license/nrl-ai/daisykit?style=flat-square" alt="license">
-    </td>
+    <td><a href="https://github.com/nrl-ai/daisykit"><b>DaisyKit</b></a> — Edge AI SDK in C++/Python: face / pose / barcode / matting via NCNN. Starred by NCNN's author.<br/><a href="https://pepy.tech/project/daisykit"><img src="https://img.shields.io/pepy/dt/daisykit?style=flat-square" alt="downloads"></a> <a href="https://pypi.org/project/daisykit/"><img src="https://img.shields.io/pypi/v/daisykit?style=flat-square&label=pypi" alt="pypi"></a> <a href="https://github.com/nrl-ai/daisykit/blob/master/LICENSE"><img src="https://img.shields.io/github/license/nrl-ai/daisykit?style=flat-square&label=" alt="license"></a></td>
   </tr>
   <tr>
     <td width="80" align="center"><a href="https://github.com/nrl-ai/chessai"><img src="./assets/chessai.png" width="64" height="64" alt="ChessAI"></a></td>
@@ -63,17 +52,11 @@ We ship AI tools that run on your laptop, not someone else's GPU cluster. Four a
 <table>
   <tr>
     <td width="80" align="center"><a href="https://github.com/nrl-ai/edgevox"><img src="./assets/edgevox.png" width="64" height="64" alt="EdgeVox"></a></td>
-    <td><a href="https://github.com/nrl-ai/edgevox"><b>EdgeVox</b></a> — Offline voice agent framework for robots and desktop apps. Streaming voice pipeline, ROS2-native, runs on CPU/CUDA/Metal. <a href="https://edgevox.nrl.ai">edgevox.nrl.ai</a><br/>
-      <img src="https://img.shields.io/github/stars/nrl-ai/edgevox?style=flat-square&label=%E2%98%85&color=f5b400" alt="stars">
-      <img src="https://img.shields.io/badge/status-in%20development-orange?style=flat-square" alt="status">
-    </td>
+    <td><a href="https://github.com/nrl-ai/edgevox"><b>EdgeVox</b></a> — Offline voice agent framework for robots and desktop apps. Streaming voice pipeline, ROS2-native, runs on CPU/CUDA/Metal. <a href="https://edgevox.nrl.ai">edgevox.nrl.ai</a><br/><a href="https://github.com/nrl-ai/edgevox/stargazers"><img src="https://img.shields.io/github/stars/nrl-ai/edgevox?style=flat-square&label=%E2%98%85&color=f5b400" alt="stars"></a> <a href="https://github.com/nrl-ai/edgevox"><img src="https://img.shields.io/badge/status-in%20development-orange?style=flat-square" alt="status"></a></td>
   </tr>
   <tr>
     <td width="80" align="center"><a href="https://github.com/nrl-ai/nom-vn"><img src="./assets/nom.png" width="64" height="64" alt="Nôm"></a></td>
-    <td><a href="https://github.com/nrl-ai/nom-vn"><b>Nôm</b></a> — Open-source Python toolkit for Vietnamese AI: RAG, diacritic restoration, segmentation, OCR, document parsing. Local-first, no data leaves your machine. Named after <a href="https://en.wikipedia.org/wiki/Ch%E1%BB%AF_N%C3%B4m">chữ Nôm</a>, the script Vietnam wrote in for a millennium. <a href="https://nom-vn.nrl.ai">nom-vn.nrl.ai</a><br/>
-      <img src="https://img.shields.io/github/stars/nrl-ai/nom-vn?style=flat-square&label=%E2%98%85&color=f5b400" alt="stars">
-      <img src="https://img.shields.io/badge/status-released-2ea44f?style=flat-square" alt="status">
-    </td>
+    <td><a href="https://github.com/nrl-ai/nom-vn"><b>Nôm</b></a> — Open-source Python toolkit for Vietnamese AI: RAG, diacritic restoration, segmentation, OCR, document parsing. Local-first, no data leaves your machine. Named after <a href="https://en.wikipedia.org/wiki/Ch%E1%BB%AF_N%C3%B4m">chữ Nôm</a>, the script Vietnam wrote in for a millennium. <a href="https://nom-vn.nrl.ai">nom-vn.nrl.ai</a><br/><a href="https://github.com/nrl-ai/nom-vn/stargazers"><img src="https://img.shields.io/github/stars/nrl-ai/nom-vn?style=flat-square&label=%E2%98%85&color=f5b400" alt="stars"></a> <a href="https://github.com/nrl-ai/nom-vn"><img src="https://img.shields.io/badge/status-released-2ea44f?style=flat-square" alt="status"></a></td>
   </tr>
 </table>
 
