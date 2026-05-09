@@ -41,7 +41,7 @@ We ship AI tools that run on your laptop, not someone else's GPU cluster. Four a
     <td width="80" align="center"><a href="https://github.com/nrl-ai/llama-assistant"><img src="./assets/llama-assistant.png" width="64" height="64" alt="Llama Assistant"></a></td>
     <td><a href="https://github.com/nrl-ai/llama-assistant"><b>Llama Assistant</b></a> — Local desktop AI with RAG and voice. Runs offline.<br/>
       <img src="https://img.shields.io/github/stars/nrl-ai/llama-assistant?style=flat-square&label=%E2%98%85&color=f5b400" alt="stars">
-      <img src="https://img.shields.io/github/license/nrl-ai/llama-assistant?style=flat-square" alt="license">
+      <img src="https://img.shields.io/badge/license-GPL--3.0-blue?style=flat-square" alt="license">
     </td>
   </tr>
   <tr>
